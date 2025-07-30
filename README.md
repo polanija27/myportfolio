@@ -83,12 +83,9 @@ A mobile app built using Flutter and Firebase, designed to help users track prog
 - **Manual Testing:** Functional, UI, Regression, Mobile (Android)  
 - **Bug Reporting:** Google Sheets, Notion, Trello  
 - **API Testing:** Postman, REST principles  
-- **Soft Skills:** Communication, Attention to Detail, Logical Thinking  
-- **Languages:** English (C1), German (B2), Russian (Native)
-
 ---
 
 ## Contacts
 
-- **GitHub:** [github.com/polinamorozova](https://github.com/polinamorozova)  
-- **Email:** your-email@example.com
+- **GitHub:** [Polina Morozova | Github](https://github.com/polanija27)  
+- **Email:** [polynamorozova27@gmail.com](mailto:polynamorozova27@gmail.com)
