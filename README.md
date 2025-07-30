@@ -14,8 +14,6 @@
     - [External Factors and Test Environment](#external-factors-and-test-environment)
     - [Tools & Debugging Setup](#tools--debugging-setup)
     - [API and Backend Testing Ideas](#api-and-backend-testing-ideas)
-- [Work Experience](#work-experience)
-- [Education & Certificates](#education--certificates)
 - [Tools & Skills](#tools--skills)
 - [Contacts](#contacts)
 
