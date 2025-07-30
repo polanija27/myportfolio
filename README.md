@@ -77,31 +77,6 @@ A mobile app built using Flutter and Firebase, designed to help users track prog
 
 ---
 
-## Work Experience
-
-**QA Support & Financial Department Assistant – [Company Name Hidden]**  
-*2023–Present (Remote, UK-based)*  
-- Assisted in financial support and compliance within the Security Department  
-- Gained experience using tools like JIRA, Confluence, SharePoint, and internal ticketing systems  
-- Developed strong documentation and collaboration skills
-
-**Client Support Specialist – [Previous Company]**  
-*2+ years of experience*  
-- Communicated with customers to resolve technical issues  
-- Practiced structured communication, user empathy, and root cause identification
-
----
-
-## Education & Certificates
-
-- **Foundations of Software Testing – Coursera**  
-  *(Certificate screenshot or link goes here)*
-
-- **Bachelor’s Degree in Linguistics**  
-  Trained in logic, accuracy, multilingual communication, and attention to textual detail
-
----
-
 ## Tools & Skills
 
 - **Testing Tools:** Notion, Trello, JIRA, Postman  
